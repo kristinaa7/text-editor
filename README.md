@@ -5,6 +5,7 @@ In this week's challenge, I built a text editor that runs in the browser and als
 
 ## Installation 
 
+
 ## Usage
 
 ## Requirements
